@@ -1,3 +1,3 @@
 # Gambar Aplikasi Dzikir Pagi dan Petang
 
-![Menu Utama](./d1.jpeg)
+![Menu Utama](./d1.jpg)
